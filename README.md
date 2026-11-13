@@ -108,18 +108,4 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
----
-
-## 👻 Welcome to My Little Engineering Corner
-
-```text
-Quby has entered the repository...
-
-Mission:
-Learn something new.
-Build something useful.
-Break a few things.
-Fix them.
-Pretend everything went according to plan.
-
 
