@@ -65,18 +65,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me
-
-- 🔧 Working in **design and product engineering**
-- 🧩 Interested in solving technical problems through structured design and experimentation
-- 🤖 Exploring **machine learning, generative AI, and large language models**
-- 📊 Enjoy turning complex data into practical insights
-- ⚙️ Building tools that simplify repetitive technical workflows
-- 🌱 Currently learning more about **AI-assisted design and automation**
-- 💬 Happy to discuss **engineering, data analysis, and applied AI**
-
----
-
 <h2 align="center">
   🔥 Languages, Frameworks & Tools 🔥
 </h2>
@@ -97,15 +85,6 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
     alt="Keras"
   />
-</p>
-
----
-
-### 📫 Let's Connect
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 
