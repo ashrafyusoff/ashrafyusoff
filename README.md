@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img width="300" alt="QubyHi-removed-bg" src="https://github.com/user-attachments/assets/98b1fdd8-b3e2-4bc5-b6ff-e34942d3ee5d" />
-</p>
-
-<!-- <h1 align="center">Hi there 👋</h1> -->
-
 <h3 align="center">
   ⚡ Design Engineer | 🤖 AI Explorer | 📊 Data Enthusiast
 </h3>
