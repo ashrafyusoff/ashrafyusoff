@@ -17,35 +17,6 @@ Here are some ideas to get you started:
   ⚡ Design Engineer | 🤖 AI Explorer | 📊 Data Enthusiast
 </h3>
 
-<p align="center">
-  I code to make life easier...
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=pacca1412&style=flat-square&color=blueviolet"
-    alt="Profile views"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/pacca1412">
-
-  </a>
-  <img
-    src="https://img.shields.io/badge/Focus-Design%20%7C%20AI%20%7C%20Data-blueviolet?style=flat-square"
-    alt="Focus areas"
-  />
-  <img
-    src="https://img.shields.io/badge/Status-Always%20Learning-success?style=flat-square"
-    alt="Learning status"
-  />
-  <img
-    src="https://img.shields.io/badge/Mood-Curious%20Every%20Day-ff69b4?style=flat-square"
-    alt="Current mood"
-  />
-</p>
-
 ---
 
 ### 📈 GitHub Stats
