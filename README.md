@@ -1,10 +1,38 @@
+<!--
+**pacca1412/pacca1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <h3 align="center">
-  Design Engineer &nbsp;·&nbsp; AI & Machine Learning &nbsp;·&nbsp; Data Analytics
+  ⚡ Design Engineer | 🤖 AI Explorer | 📊 Data Enthusiast
 </h3>
 
 ---
 
-<h4 align="center">Tech Stack</h4>
+### 📈 GitHub Stats
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pacca1412&theme=radical&hide_border=true" height="165"/>
+</p>
+<p align="center">
+
+</p>
+
+---
+
+<h2 align="center">
+  🔥 Languages, Frameworks & Tools 🔥
+</h2>
 
 <p align="center">
   <img
@@ -15,19 +43,11 @@
 
 <p align="center">
   <img
-    src="https://shields.io"
+    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
     alt="NumPy"
   />
   <img
-    src="https://shields.io"
+    src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
     alt="Keras"
   />
-</p>
-
----
-
-<h4 align="center">GitHub Activity</h4>
-
-<p align="center">
-  <img src="https://herokuapp.com" height="165" alt="GitHub Streak" />
 </p>
