@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-  ⚡ Design Engineer | 🤖 AI Explorer | 📊 Data Enthusiast
+  Design Engineer . AI Explorer . Data Enthusiast
 </h3>
 
 ---
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 <h2 align="center">
-  🔥 Languages, Frameworks & Tools 🔥
+  Languages, Frameworks & Tools
 </h2>
 
 <p align="center">
