@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacca1412&theme=radical&hide_border=true" height="165"/>
